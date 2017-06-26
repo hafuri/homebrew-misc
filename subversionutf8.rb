@@ -1,5 +1,5 @@
-class SubversionAT18 < Formula
-  desc "Version control system"
+class Subversionutf8 < Formula
+  desc "Version control system designed to be a better CVS"
   homepage "https://subversion.apache.org/"
   url "https://www.apache.org/dyn/closer.cgi?path=subversion/subversion-1.8.16.tar.bz2"
   mirror "https://archive.apache.org/dist/subversion/subversion-1.8.16.tar.bz2"
